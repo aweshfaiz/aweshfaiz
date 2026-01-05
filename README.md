@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm SK Awesh Faiz</h1>
-- 🔭 I’m currently working on **StudySphere**
-
-- 🌱 I’m currently learning **Data science, Java, SQL**
+- 🌱 I’m currently learning **Data science, MERN Stack, SQL**
 
 - 📫 How to reach me **aweshfaiz966@gmail.com**
 
