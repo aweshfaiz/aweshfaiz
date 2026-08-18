@@ -10,17 +10,9 @@
 
 ### 🚀 What I do
 
-I design and build backend systems — APIs, data models, real-time features, and the infrastructure that keeps them running smoothly in production. Comfortable working across SQL and NoSQL databases, containerizing with Docker, and picking whichever stack fits the problem best.
+I design and build backend systems, APIs, data models, real-time features, and the infrastructure that keeps them running smoothly in production. Comfortable working across SQL and NoSQL databases, containerizing with Docker, and picking whichever stack fits the problem best.
 
-I come from a full-stack background, so I move easily between Node.js, ASP.NET, and Python-based backends, and I occasionally step into ML/data work — training models, building pipelines with pandas and scikit-learn — when a problem needs it.
-
-```txt
-const awesh = {
-  focus: "backend architecture, microservices & real-time systems",
-  stack: ["Node.js", "Express", "ASP.NET Core", "Django", "Flask", "MongoDB", "SQL Server", "Docker", "Redis", "Socket.io"],
-  currentlyExploring: "microservices, inter-service auth, and scaling real-time systems",
-};
-```
+I come from a full-stack background, so I move easily between Node.js, ASP.NET, and Python-based backends, and I occasionally step into ML/data work — training models, building pipelines with pandas and scikit-learn when a problem needs it.
 
 ---
 
