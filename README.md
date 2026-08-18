@@ -136,6 +136,4 @@ Recruitment platform with full candidate/interview CRUD and optimized stored pro
 
 ---
 
----
-
 <p align="center"><i>Always down to talk backend architecture, MongoDB schema design, or system design in general.</i></p>
